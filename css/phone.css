@@ -1,0 +1,289 @@
+.covercp{
+    background-image: url(../img/coverphone.png);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 375%;
+    height: 1820px;
+}
+
+
+
+
+
+    .saludo h1{
+        position: absolute;
+        font-style: normal;
+        font-weight: 800;
+        font-size: 250px;
+        line-height: 228px;
+        left: 210px;
+        top: 1980px;
+        color: white;
+        z-index: 1;
+    }
+
+
+    .flor1{
+    position: absolute;
+     height: 410px;
+     top: 2400px;
+    }
+
+    .saludo p{
+position: absolute;
+width: 800px;
+height: 245px;
+
+z-index: 1;
+font-style: normal;
+font-weight: 400;
+font-size: 35px;
+line-height: 45px;
+text-align: justify;
+top: 2300px;
+left: 300px;
+color: #FFFFFF;
+    }
+
+.curri{
+    position: absolute;
+    z-index: 1;
+    top: 2600px; 
+    position: absolute;
+    width: 350px;
+    height: 120px;
+    left: 500px;
+    background: #FFFFFF;
+    box-shadow: 7px 16px 36px #585995;
+    border-radius: 75px;
+}
+
+.curri a{
+    display: flex;
+    text-decoration: none;
+    z-index: 1;
+    position: absolute;
+    right: 10px;
+    top: 40px;
+    font-weight: 800;
+    font-size: 35px;
+    color: #797ACC;
+}
+.curri a:hover{
+    position:absolute;
+    font-size: 25px;
+    transition:0.3s;
+    width: 450px;
+    height: 160px;
+} 
+.curri:hover{
+    position:absolute;
+    font-size: 30px;
+    transition:0.3s;
+    width: 250px;
+    height: 60px;
+  
+}
+
+
+
+
+   
+
+
+    
+
+.gif{
+        position: absolute;
+        width: 375%;
+     height: px;
+     left: px;
+    top: 2800px;
+
+    }
+
+
+    .indic{
+        z-index: 1;
+        font-size: 30px;
+        color: #FFFFFF;
+       margin-top: 1380px;
+       width: 1000px;
+    }
+
+
+/*GALERIA*/
+
+.DETODOCAFE{
+position: absolute;
+width: 680px;
+height: 912px;
+left: 45px;
+top: 3300px
+}
+
+.DETODOCAFE:hover{
+    position:absolute;
+    transition:0.3s;
+    width: 300px;
+    height: 424px;
+  
+}
+
+
+.CATALGO{
+position: absolute;
+width: 597px;
+height: 712px;
+left: 750px;
+top: 3300px;
+}
+.CATALGO:hover{
+    position:absolute;
+    transition:0.3s;
+    width: 420px;
+    height: 424px;
+  
+}
+
+
+.PHOTOSHOP{
+    position: absolute;
+width: 1288px;
+height: 712px;
+left: 45px;
+top: 4280px;
+}
+.PHOTOSHOP:hover{
+    position:absolute;
+    transition:0.3s;
+    width: 740px;
+    height: 424px;
+  
+}
+
+
+.ILUSTRAITOR{
+position: absolute;
+width: 1263px;
+height: 912px;
+left: 42px;
+top: 5050px;
+}
+.ILUSTRAITOR:hover{
+    position:absolute;
+    transition:0.3s;
+    width: 580px;
+    height: 424px;
+  
+}
+
+
+.WEB{
+    position: absolute;
+width: 1260px;
+height: 612px;
+left: 42PX;
+top: 6000px;
+}
+.WEB:hover{
+    position:absolute;
+    transition:0.3s;
+    width: 890px;
+    height: 424px;
+  
+}
+
+
+.INDI{
+    top: 500px;
+    text-align: center;
+    font-size: 100px;
+    color: #FFFFFF;
+   }
+.INDI:hover{
+    position:absolute;
+    transition:0.3s;
+    width: 300px;
+    height: 424px;
+  
+}
+
+
+
+
+
+.footer{
+    position: absolute;
+    height: 220px;
+    width: 375%;
+    top: 6700px;
+    z-index: 1;
+    background-color: rgb(29, 29, 29);
+
+}
+
+.WHAST{
+
+  position: absolute;
+   right: 250px;
+   top: 30px;  
+}
+
+.WHAST img{
+ height: 150px;
+width: 130px;
+}
+.WHAST:hover{
+    position:absolute;
+    transition:0.3s;
+    opacity: 50%;
+  
+}
+
+
+.INSTAGRAM{
+position: absolute;
+right: 100px;
+top: 30px;  
+ }
+
+.INSTAGRAM img{
+height: 150px;
+width: 150px;
+  }
+.INSTAGRAM:hover{
+      position:absolute;
+      transition:0.3s;
+      opacity: 50%;   
+  }
+  
+
+
+
+
+
+
+
+
+
+
+
+  
+
+.footer p{
+    position: absolute;
+width: 362px;
+height: 58px;
+right: 260px;
+top: 30px;
+
+font-family: 'Montserrat';
+
+font-weight: 300;
+font-size: 25px;
+line-height: 61px;
+
+color: #FFFFFF;
+}

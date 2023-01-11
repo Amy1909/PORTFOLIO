@@ -1,0 +1,296 @@
+
+.covercp{
+    background-image: url(../img/cover.png);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 1000px;
+}
+
+
+
+
+    .fondosaludo{
+        width: 100%;
+        height: 500px;
+        margin-top: -5px;
+        display: flex;
+        position: absolute;
+
+    }
+    .saludo h1{
+        position: absolute;
+        font-style: normal;
+        font-weight: 800;
+        font-size: 180px;
+        line-height: 228px;
+        left: 210px;
+        top: 1050px;
+        color: white;
+        z-index: 1;
+    }
+
+
+    .flor1{
+    position: absolute;
+     height: 410px;
+     top: 1020px;
+    }
+
+    .saludo p{
+position: absolute;
+width: 600px;
+height: 240px;
+
+z-index: 1;
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 25px;
+text-align: justify;
+top: 1100px;
+right: 50px;
+color: #FFFFFF;
+    }
+
+.curri{
+    position: absolute;
+    z-index: 1;
+    top: 1350px; 
+    position: absolute;
+    width: 220px;
+    height: 50px;
+    left: 1185px;
+    background: #FFFFFF;
+    box-shadow: 7px 16px 36px #585995;
+    border-radius: 75px;
+}
+
+.curri a{
+    display: flex;
+    text-decoration: none;
+    z-index: 1;
+    position: absolute;
+    left: 30px;
+    top: 10px;
+    font-weight: 800;
+    font-size: 20px;
+    color: #797ACC;
+}
+.curri a:hover{
+    position:absolute;
+    font-size: 25px;
+    transition:0.3s;
+    width: 250px;
+    height: 60px;
+} 
+.curri:hover{
+    position:absolute;
+    font-size: 30px;
+    transition:0.3s;
+    width: 250px;
+    height: 60px;
+  
+}
+
+
+
+
+   
+
+
+    
+
+.gif{
+        position: absolute;
+        width: 100%;
+     height: px;
+     left: px;
+    top: 1420px;
+
+    }
+
+
+.indic{
+    font-size: 10px;
+    color: #FFFFFF;
+    margin-top: 820px;
+    z-index: 1;
+    margin-left: 100px;
+}
+/*GALERIA*/
+
+
+.DETODOCAFE{
+position: absolute;
+width: 280px;
+height: 412px;
+left: 45px;
+top: 1850px
+}
+
+.DETODOCAFE:hover{
+    position:absolute;
+    transition:0.3s;
+    width: 300px;
+    height: 424px;
+  
+}
+
+
+.CATALGO{
+position: absolute;
+width: 397px;
+height: 412px;
+left: 350px;
+top: 1850px;
+}
+.CATALGO:hover{
+    position:absolute;
+    transition:0.3s;
+    width: 420px;
+    height: 424px;
+  
+}
+
+
+.PHOTOSHOP{
+    position: absolute;
+width: 718px;
+height: 412px;
+right: 25px;
+top: 1850px;
+}
+.PHOTOSHOP:hover{
+    position:absolute;
+    transition:0.3s;
+    width: 740px;
+    height: 424px;
+  
+}
+
+
+.ILUSTRAITOR{
+position: absolute;
+width: 563px;
+height: 412px;
+left: 42px;
+top: 2300px;
+}
+.ILUSTRAITOR:hover{
+    position:absolute;
+    transition:0.3s;
+    width: 580px;
+    height: 424px;
+  
+}
+
+
+.WEB{
+    position: absolute;
+width: 860px;
+height: 412px;
+right: 25PX;
+top: 2300px;
+}
+.WEB:hover{
+    position:absolute;
+    transition:0.3s;
+    width: 890px;
+    height: 424px;
+  
+}
+
+
+.INDI{
+    top: 1850px;
+    text-align: center;
+    font-size: 15px;
+    color: #FFFFFF;
+}
+.INDI:hover{
+    position:absolute;
+    transition:0.3s;
+    width: 300px;
+    height: 424px;
+  
+}
+
+
+
+
+
+.footer{
+    position: absolute;
+    height: 120px;
+    width: 100%;
+    top: 2800px;
+    z-index: 1;
+    background-color: rgb(29, 29, 29);
+
+}
+
+.WHAST{
+
+  position: absolute;
+   right: 250px;
+   top: 30px;  
+}
+
+.WHAST img{
+ height: 50px;
+width: 55px;
+}
+.WHAST:hover{
+    position:absolute;
+    transition:0.3s;
+    opacity: 50%;
+  
+}
+
+
+.INSTAGRAM{
+position: absolute;
+right: 150px;
+top: 30px;  
+ }
+
+.INSTAGRAM img{
+height: 50px;
+width: 50px;
+  }
+.INSTAGRAM:hover{
+      position:absolute;
+      transition:0.3s;
+      opacity: 50%;   
+  }
+  
+
+
+
+
+
+
+
+
+
+
+
+  
+
+.footer p{
+    position: absolute;
+width: 362px;
+height: 58px;
+right: 260px;
+top: 30px;
+
+font-family: 'Montserrat';
+
+font-weight: 300;
+font-size: 25px;
+line-height: 61px;
+
+color: #FFFFFF;
+}
